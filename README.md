@@ -1,1 +1,1 @@
-"# Java" 
+Java was my first love, whom I had temporarily set aside. Now, I am determined to rekindle that old flame once again. I am currently engaged in revisiting my Java skills through HackerRank.
